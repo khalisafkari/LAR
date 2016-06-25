@@ -1,0 +1,11 @@
+c:\users\khalis afkari\documents\visual studio 2015\Projects\LOGIN AND REGISTER\LOGIN AND REGISTER\bin\Debug\LOGIN AND REGISTER.exe.config
+c:\users\khalis afkari\documents\visual studio 2015\Projects\LOGIN AND REGISTER\LOGIN AND REGISTER\bin\Debug\LOGIN AND REGISTER.exe
+c:\users\khalis afkari\documents\visual studio 2015\Projects\LOGIN AND REGISTER\LOGIN AND REGISTER\bin\Debug\LOGIN AND REGISTER.pdb
+c:\users\khalis afkari\documents\visual studio 2015\Projects\LOGIN AND REGISTER\LOGIN AND REGISTER\bin\Debug\LOGIN AND REGISTER.xml
+c:\users\khalis afkari\documents\visual studio 2015\Projects\LOGIN AND REGISTER\LOGIN AND REGISTER\obj\Debug\LOGIN AND REGISTER.vbprojResolveAssemblyReference.cache
+c:\users\khalis afkari\documents\visual studio 2015\Projects\LOGIN AND REGISTER\LOGIN AND REGISTER\obj\Debug\LOGIN_AND_REGISTER.Form1.resources
+c:\users\khalis afkari\documents\visual studio 2015\Projects\LOGIN AND REGISTER\LOGIN AND REGISTER\obj\Debug\LOGIN_AND_REGISTER.Resources.resources
+c:\users\khalis afkari\documents\visual studio 2015\Projects\LOGIN AND REGISTER\LOGIN AND REGISTER\obj\Debug\LOGIN AND REGISTER.vbproj.GenerateResource.Cache
+c:\users\khalis afkari\documents\visual studio 2015\Projects\LOGIN AND REGISTER\LOGIN AND REGISTER\obj\Debug\LOGIN AND REGISTER.exe
+c:\users\khalis afkari\documents\visual studio 2015\Projects\LOGIN AND REGISTER\LOGIN AND REGISTER\obj\Debug\LOGIN AND REGISTER.xml
+c:\users\khalis afkari\documents\visual studio 2015\Projects\LOGIN AND REGISTER\LOGIN AND REGISTER\obj\Debug\LOGIN AND REGISTER.pdb
